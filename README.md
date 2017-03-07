@@ -21,6 +21,8 @@
 |[seld/jsonlint](https://packagist.org/packages/seld/jsonlint)|JSON 语法检查||
 |[geoip2/geoip2](https://packagist.org/packages/geoip2/geoip2)|IP地理位置信息||
 |[league/csv](https://packagist.org/packages/league/csv)|CSV操作类|[例子](https://github.com/thephpleague/csv/tree/master/examples)|
+|[jalle19/php-whitelist-check](https://packagist.org/packages/jalle19/php-whitelist-check)|IP/网址黑白名检查 支持模糊匹配||
+|[shark/simple_html_dom](https://packagist.org/packages/shark/simple_html_dom)|php解析html类库|[文档](http://simplehtmldom.sourceforge.net/)|
 
 
 
