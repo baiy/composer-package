@@ -16,6 +16,7 @@
 |[willdurand/jsonp-callback-validator](https://packagist.org/packages/willdurand/jsonp-callback-validator)|JSONP callback参数验证 防止XSS攻击||
 |[michelf/php-markdown](https://packagist.org/packages/michelf/php-markdown)|PHP markdown 解析|[官网](https://daringfireball.net/projects/markdown/)|
 |[erusev/parsedown](https://packagist.org/packages/erusev/parsedown)|PHP markdown 解析|[演示](http://parsedown.org/tests/) [文档](https://github.com/erusev/parsedown/wiki/)|
+|[league/html-to-markdown](https://packagist.org/packages/league/html-to-markdown)|HTML转markdown||
 |[monolog/monolog](https://packagist.org/packages/monolog/monolog)|日志操作 composer官方就是用它做例子|[文档](https://github.com/Seldaek/monolog/blob/HEAD/doc/01-usage.md)|
 |[phpcollection/phpcollection](https://packagist.org/packages/phpcollection/phpcollection)|PHP 集合操作|[文档](http://jmsyst.com/libs/php-collection)|
 |[seld/jsonlint](https://packagist.org/packages/seld/jsonlint)|JSON 语法检查||
@@ -23,6 +24,7 @@
 |[league/csv](https://packagist.org/packages/league/csv)|CSV操作类|[例子](https://github.com/thephpleague/csv/tree/master/examples)|
 |[jalle19/php-whitelist-check](https://packagist.org/packages/jalle19/php-whitelist-check)|IP/网址黑白名检查 支持模糊匹配||
 |[shark/simple_html_dom](https://packagist.org/packages/shark/simple_html_dom)|php解析html类库|[文档](http://simplehtmldom.sourceforge.net/)|
+|[naux/auto-correct](https://packagist.org/packages/naux/auto-correct)|自动给中英文之间加入合理的空格并纠正专用名词大小写||
 
 
 
