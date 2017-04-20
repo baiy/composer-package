@@ -25,6 +25,7 @@
 |[jalle19/php-whitelist-check](https://packagist.org/packages/jalle19/php-whitelist-check)|IP/网址黑白名检查 支持模糊匹配||
 |[shark/simple_html_dom](https://packagist.org/packages/shark/simple_html_dom)|php解析html类库|[文档](http://simplehtmldom.sourceforge.net/)|
 |[naux/auto-correct](https://packagist.org/packages/naux/auto-correct)|自动给中英文之间加入合理的空格并纠正专用名词大小写||
+|[fabpot/goutte](https://packagist.org/packages/fabpot/goutte)|PHP 爬虫库 它提供了一个优雅的 API，这使得从远程页面上选择特定元素变得简单||
 
 
 
