@@ -26,6 +26,4 @@
 |[shark/simple_html_dom](https://packagist.org/packages/shark/simple_html_dom)|php解析html类库|[文档](http://simplehtmldom.sourceforge.net/)|
 |[naux/auto-correct](https://packagist.org/packages/naux/auto-correct)|自动给中英文之间加入合理的空格并纠正专用名词大小写||
 |[fabpot/goutte](https://packagist.org/packages/fabpot/goutte)|PHP 爬虫库 它提供了一个优雅的 API，这使得从远程页面上选择特定元素变得简单||
-
-
-
+|[meenie/munee](https://packagist.org/packages/meenie/munee)|一个集图片尺寸调整、CSS-JS合并/压缩、缓存等功能于一身的PHP库|[官网](http://mun.ee/)|
