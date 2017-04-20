@@ -1,10 +1,11 @@
 |名称|用途说明|说明地址|
 |---|---|---|
-|[mashape/unirest-php](https://packagist.org/packages/mashape/unirest-php)|简单易用的HTTP请求库|[官网地址](http://unirest.io/)|
+|[mashape/unirest-php](https://packagist.org/packages/mashape/unirest-php)|简单易用的HTTP请求库|[官网](http://unirest.io/)|
 |[guzzlehttp/guzzle](https://packagist.org/packages/guzzlehttp/guzzle)|功能强大的HTTP请求库|[文档](http://guzzlephp.org/)|
 |[hassankhan/config](https://packagist.org/packages/hassankhan/config)|轻量级配置加载类,支持多种配置格式`PHP, INI, XML, JSON, and YML`||
 |[desarrolla2/cache](https://packagist.org/packages/desarrolla2/cache)|简单的缓存类,提供多种缓存驱动`Apc, Apcu, File, Mongo, Memcache, Memcached, Mysql, Mongo, Redis`||
-|[hashids/hashids](https://packagist.org/packages/hashids/hashids)|数字ID生成类似优酷视频ID,支持多语言,支持加盐生成|[官网地址](http://hashids.org/)|
+|[phpFastCache/phpFastCache](https://packagist.org/packages/phpFastCache/phpFastCache)|PHP 缓存库,支持apc, memcache, memcached, wincache, files, pdo and mpdo|[官网](http://www.phpfastcache.com/)|
+|[hashids/hashids](https://packagist.org/packages/hashids/hashids)|数字ID生成类似优酷视频ID,支持多语言,支持加盐生成|[官网](http://hashids.org/)|
 |[sika/sitemap](https://packagist.org/packages/sika/sitemap)|XML网站地图生成器||
 |[catfan/medoo](https://packagist.org/packages/catfan/medoo)|简单易用数据库操作类 支持各种常见数据库|[文档](http://medoo.in/doc)|
 |[rize/uri-template](https://packagist.org/packages/rize/uri-template)|URL生成||
