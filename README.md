@@ -30,3 +30,4 @@
 |[meenie/munee](https://packagist.org/packages/meenie/munee)|一个集图片尺寸调整、CSS-JS合并/压缩、缓存等功能于一身的PHP库|[官网](http://mun.ee/)|
 |[league/flysystem](https://packagist.org/packages/league/flysystem)|一个文件系统抽象层,为各类型文件操作(本地/Azure/Aws/FTP/内存等)提供统一的操作接口|[官网](https://flysystem.thephpleague.com/)|
 |[overtrue/wechat](https://packagist.org/packages/overtrue/wechat)|EasyWeChat 是一个开源的 微信 非官方 SDK|[官网](https://www.easywechat.com/)|
+|[php-di/php-di](https://packagist.org/packages/php-di/php-di)|PHP 依赖注入容器|[官网](http://php-di.org/) [文档](http://php-di.org/doc/)|
