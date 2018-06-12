@@ -31,3 +31,4 @@
 |[league/flysystem](https://packagist.org/packages/league/flysystem)|一个文件系统抽象层,为各类型文件操作(本地/Azure/Aws/FTP/内存等)提供统一的操作接口|[官网](https://flysystem.thephpleague.com/)|
 |[overtrue/wechat](https://packagist.org/packages/overtrue/wechat)|EasyWeChat 是一个开源的 微信 非官方 SDK|[官网](https://www.easywechat.com/)|
 |[php-di/php-di](https://packagist.org/packages/php-di/php-di)|PHP 依赖注入容器|[官网](http://php-di.org/) [文档](http://php-di.org/doc/)|
+|[jakub-onderka/php-console-color](https://packagist.org/packages/jakub-onderka/php-console-color)|命令行带颜色输出| 没有文档 可以查看github上的[实例代码](https://github.com/JakubOnderka/PHP-Console-Color/blob/master/example.php)|
